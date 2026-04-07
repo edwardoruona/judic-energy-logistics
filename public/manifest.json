@@ -1,0 +1,25 @@
+{
+  "short_name": "Judic Energy & Logistics",
+  "name": "ENGERY, OIL AND GAS, LOGISTICS, PROCUREMENT, EXPORT AND IMPORT",
+  "icons": [
+    {
+      "src": "judiclogo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "judiclogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "judiclogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
