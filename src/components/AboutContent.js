@@ -19,10 +19,10 @@ const AboutContent = () => {
         <div className="right">
             <div className="img-container">
                 <div className="img-stack top">
-                    <img src={React1} className="img" alt="react image" />
+                    <img src={React1} className="img" alt="Corporate facilities" />
                 </div>
                 <div className="img-stack bottom">
-                    <img src={React2} className="img" alt="react image" />
+                    <img src={React2} className="img" alt="Operations and logistics" />
                 </div>
             </div>
         </div>

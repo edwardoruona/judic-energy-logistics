@@ -8,7 +8,7 @@ import "./WorkcardStyle.css";
 const workcard = (props) => {
   return (
     <div className="project-card">
-    <img src={props.image} alt="image" />
+    <img src={props.image} alt={props.title} />
     <h2 className="project-tittle">{props.title}</h2>
     <div className="pro-details">
         <p>{props.text}</p>
