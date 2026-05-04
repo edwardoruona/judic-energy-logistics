@@ -25,7 +25,7 @@ function NavBar() {
     return (
         <div className ={color ? "header header-bg" : "header"} >
            <div className="logo">
-            <img src={React3} className="img" alt="react image" />
+            <img src={React3} className="img" alt="Judic Energy logo" />
             <Link to="/">
             <h2>JUDIC ENERGY</h2>
             </Link>
