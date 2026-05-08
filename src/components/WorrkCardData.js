@@ -3,7 +3,7 @@ import image2 from  "../assets/download (3).jpeg" ;
 import image6 from  "../assets/images.jpeg" ;
 import image4 from  "../assets/download (5).jpg" ;
 import image5 from  "../assets/download (4).jpeg" ;
-import image7 from  "../assets/download.jpeg" ;
+import image7 from  "../assets/hydro test.jpeg" ;
 
 
 const ProjectCardData = [

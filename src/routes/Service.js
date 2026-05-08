@@ -11,7 +11,7 @@ const service = () => {
   return (
     <div>
       <NavBar/>
-      <Hero2 heading="Services" text="our services and financial plans are listed below." />
+      <Hero2 heading="Services" text="our major services are listed below." />
       <Work/>
       {/* <Pricing/> */}
       <Footer/>
